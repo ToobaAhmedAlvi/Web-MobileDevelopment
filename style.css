@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color:thistle;
+}
+div,a:hover{
+    background-color: springgreen;
+    color:teal;
+   }
+
+.grid{
+    background-color: green;
+    display:grid;
+    padding:20px;
+    margin-top:0px;
+    margin:0% 16% 0% 20%;
+    grid-column-gap:20px;
+    grid-row-gap:13px;
+    grid-template-columns:200px 200px 200px;
+         }
+
+.grid-item{
+    background-color: whitesmoke;
+      font-size: 130%;
+      padding: 20px;
+      text-align: center;
+
+    }
+    #Intro{
+        background-color: tomato;
+        color:black;
+        font:normal;
+        
+    }
+    .container{
+font-size:20px;
+margin:0% 1% 9% 10%;
+padding:18px;
+width:200px;
+text-align:justify;
+float:left;
+}
