@@ -1,0 +1,45 @@
+table{
+    margin-left: 10%;
+    margin-right: 10%;
+    width:80%;
+    height:100%;
+    table-layout:fixed ;
+    align-items: center;
+    padding: 2% solid white;   
+    font-family:Ariel,Sans-Serif;    
+       }
+    th,td{
+color:black; 
+text-align:center;
+border:1px solid blue;
+font-size: large;
+border-collapse: separate;
+}
+.empty{
+    border:white;
+    background-color: white;
+}
+#col{
+    color: limegreen;
+}
+#col2{
+    color:darkblue;
+}
+#col3{
+    color:darkred;
+}
+tr{
+    border:1px solid white;
+}
+h1{
+font-family:Ariel,Sans-Serif;
+text-align:center;
+font-weight:bold;
+font-size:50px;
+background-color:yellow;
+margin:0% 10% 0% 10%;
+
+}
+sup{
+    font-size: medium;    
+}
